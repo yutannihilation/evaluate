@@ -27,4 +27,6 @@ Suggests:
     testthat,
     lattice,
     ggplot2
+Remotes:
+    yutannihilation/testthat@respect-warning-option
 RoxygenNote: 6.0.1
